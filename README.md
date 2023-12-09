@@ -1,4 +1,4 @@
-# auto-desktop-organiser
+# desktop-organiser
 
 ## Overview
 
